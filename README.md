@@ -1,7 +1,7 @@
 # MinecraftClassicDev
 Minecraft Classic Developement, replacing 0.34
 
-Version: classicdev-20200111
+Version: Classic dev 0.02
 
 ### Install
 Follow 0.34 install guide
